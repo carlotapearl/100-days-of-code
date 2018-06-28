@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Grow with Google Udacity Developer Challenge
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+* [Full Guidelines for the Challenge](https://sites.google.com/udacity.com/gwgdevscholarship/community/100-days-of-code-challenge)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: June 27, 2018
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Started preparing for Project 3.  Reviewed code from several lessons in Part 3 of Udacity's Front End Nano Degree program in preparation to dive into project 3. I noticed I had skiped several lessons of the Accessibilty lessons that required downloading the code and making it accessible. Then I moved on to set approach Project 3. I started a Google Spreadsheet document (will share link later) with tabs for Instructions, Resources, thoughts, Steps...and so on. I created one for Project 2 and it was very helpful. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** Excited about day one of the challenge. Although I have been doing some form of Web Dev since 2012 and have been coding almost every day for the past 2 years (first with FreeCodeCamp then through attending The Iron Yard Immersive Bootcamp), I have never done an official 100 Days of Code challenge. I am very excited to take the challenge.  Excited to be part of it with my Udacity Cohort as well as the entire Udacity Grow With Google Dev Scholars!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Links to work for Day 1:** 
+1. [Udacity's Accessibilty Lessons](https://github.com/carlotapearl/ud891/tree/gh-pages/lesson2-focus)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
