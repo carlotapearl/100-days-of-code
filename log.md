@@ -13,3 +13,9 @@
 **Links to work for Day 1:** 
 1. [Udacity's Accessibilty Lessons](https://github.com/carlotapearl/ud891/tree/gh-pages/lesson2-focus)
 
+### Day 2: June 28, 2018
+
+**Today's Progress**: Continued to review the lessons in Part 3 for use with Project 3 for Udacity's Front End Nano Degree. I finished lessons 10 -Functions, 11 -Built-ins, and 12 -Professional Developer-fu. I still need to go back and finish a few quizes for lesson's 7, 8, & 9. 
+
+**Thoughts:** Since I have a planned get-away to the beach this weekend I got up early and coded for about 8 hours today! I am super chaged to continue this challenge of 100DaysOfCode! 
+
