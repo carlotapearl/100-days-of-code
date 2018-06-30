@@ -19,3 +19,9 @@
 
 **Thoughts:** Since I have a planned get-away to the beach this weekend I got up early and coded for about 8 hours today! I am super chaged to continue this challenge of 100DaysOfCode! 
 
+### Day 3: June 29, 2018
+
+**Today's Progress**: Clompleted Udacity's Nano Degree Part 3 Lesson 7 Objects in Depth. 
+
+**Thoughts:** I had already gone over the material without completing the code challenges. Today I spent about 2 hours going through the material and completing all of the quizes. I am pretty happy with my understanding of the material.
+
