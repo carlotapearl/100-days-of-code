@@ -29,6 +29,11 @@
 
 **Today's Progress**: Clompleted Udacity's Object Oriented JavaScript: Functions at Runtime Lesson. The lesson included the following topics: First-Class Functions, Callbacks, Scope, and Closures as well as Immediately-Invoked Function Expressions.
 
+### Day 5: July 01, 2018
+
+**Today's Progress**: Reviewed the JavaScript Functions Lesson (all 21 parts) of my Udacity Front End Nano Degree curriculum. Some of the exercises I worked on covered ES6 arrow functions, the "this" keyword in regular functions as well as "this" in arrow functions. Also covered how to use default function parameters to pass default values to functions, Destructuring, and JavaScript classes.
+
+**Thoughts** Udacity's does a fine job explaining all the new things to JavaScript Functions in ES6.
 
 
 
