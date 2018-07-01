@@ -25,3 +25,10 @@
 
 **Thoughts:** I had already gone over the material without completing the code challenges. Today I spent about 2 hours going through the material and completing all of the quizes. I am pretty happy with my understanding of the material.
 
+### Day 4: June 30, 2018
+
+**Today's Progress**: Clompleted Udacity's Object Oriented JavaScript: Functions at Runtime Lesson. The lesson included the following topics: First-Class Functions, Callbacks, Scope, and Closures as well as Immediately-Invoked Function Expressions.
+
+
+
+
