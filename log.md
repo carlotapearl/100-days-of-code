@@ -36,4 +36,7 @@
 **Thoughts** Udacity's does a fine job explaining all the new things to JavaScript Functions in ES6.
 
 
+### Day 6: July 02, 2018
+
+**Today's Progress**:I was sick most of the day but managed to view an hour or more of course work at Udacity - the beauty of online learning! Looking forward to setting up for project 3.
 
