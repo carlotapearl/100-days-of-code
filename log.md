@@ -40,3 +40,7 @@
 
 **Today's Progress**:I was sick most of the day but managed to view an hour or more of course work at Udacity - the beauty of online learning! Looking forward to setting up for project 3.
 
+### Day 7: July 03, 2018
+
+**Today's Progress**:Today I started setting up for Project 3. Continued progress on the Object Oriented JavaScript 112 Minute Course on teamtreehouse.com, and also worked through several of Free Code Camp's Functional programming challenges. 
+
