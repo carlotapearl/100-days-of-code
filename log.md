@@ -44,3 +44,6 @@
 
 **Today's Progress**:Today I started setting up for Project 3. Continued progress on the Object Oriented JavaScript 112 Minute Course on teamtreehouse.com, and also worked through several of Free Code Camp's Functional programming challenges. 
 
+### Day 8: July 04, 2018
+
+**Today's Progress**:Continued progress on Udacity's Front End Nano Degree Project 3. Finished the Object Oriented JavaScript Course on teamtreehouse.com, and continued to work through several of Free Code Camp's Functional programming challenges. 
