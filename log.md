@@ -51,3 +51,7 @@
 ### Day 9: July 05, 2018
 
 **Today's Progress**:Continued progress on Udacity's Front End Nano Degree Project 3. Worked on the JavaScript Objects and Classes Lesson on Udacity. 
+
+### Day 10: July 06, 2018
+
+**Today's Progress**:Continued progress on Udacity's Front End Nano Degree Project 3. 
