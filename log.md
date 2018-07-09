@@ -55,3 +55,11 @@
 ### Day 10: July 06, 2018
 
 **Today's Progress**:Continued progress on Udacity's Front End Nano Degree Project 3. 
+
+### Day 11: July 07, 2018
+
+**Today's Progress**: Worked on Udacity's Front End Nano Degree Project 3. 
+
+### Day 12: July 08, 2018
+
+**Today's Progress**:Continued progress on Udacity's Front End Nano Degree Project 3. 
