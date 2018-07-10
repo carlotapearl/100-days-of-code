@@ -62,4 +62,8 @@
 
 ### Day 12: July 08, 2018
 
-**Today's Progress**:Continued progress on Udacity's Front End Nano Degree Project 3. 
+**Today's Progress**:Continued progress on Udacity's Front End Nano Degree Project 3. Finished with the minimum requirements.
+
+### Day 13: July 09, 2018
+
+**Today's Progress**:Getting close to finishing Udacity's Front End Nano Degree Project 3. Minimum requirements complete. Working on the extra features. Planning on submitting for review within the next two days.  
