@@ -81,3 +81,11 @@
 **Today's Progress**: Today I continued with Udacity's Front End Nano Degree course work. My project was reviewed and met expectations on the first submission. Today I was able to complete 3 Lessons: Web Tooling and Automation, Productive Editing, and Powerful Builds. These included setting up the IDE with packages to increase productivity (keyboard shortcuts and code editor extensions to speed up development process. In the afternoon I spent several hours in the "Powerful Builds" lesson which included setting up Gulp and Sass.
 
 **Thoughts:** I had used Gulp, NPM, NodeJs, and Sass prior to this lesson. Having set up a new computer recently I did fresh installs for all of these today. I also went back to Lynda.com and finished "Sass Essential Training" and another for Workflows with Git, Gulp, and Browserify. All in all it was a very productive day.
+
+### Day 17: July 13, 2018 
+
+**Today's Progress**: Continued work on Udacity's Front End Nano Degree courses. Spent some time setting up the workflow developer tools Gulp, Sass, ESLint, Live Editing, and other recommended tools for the Editor.
+
+### Day 18 July 14, 2018
+
+**Today's Progress**: Today I began the coursework on JavaScript Testing. 
