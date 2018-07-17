@@ -97,3 +97,7 @@
 ### Day 20 July 16, 2018
 
 **Today's Progress**: Working on Udacity's Front End Nano Degree course work. Covered today: Babel transpiler, JavaScript Source Maps, Image Optimization & Compression, and scaffolding with Google's Web Starter Kit, HTML5 Boilerplate, Yeoman and began the "Writing Tests" with Jasmine Course. Also completed "User Experience for Web Designers" on Lynda.com.
+
+### Day 21 July 17, 2018 
+
+**Today's Progress**: Continued the Writing Tests with Jasmine Course on Udacity. 
