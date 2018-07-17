@@ -100,4 +100,4 @@
 
 ### Day 21 July 17, 2018 
 
-**Today's Progress**: Continued the Writing Tests with Jasmine Course on Udacity. 
+**Today's Progress**: Continued the Writing Tests with Jasmine Course on Udacity.
