@@ -93,3 +93,7 @@
 ### Day 19 July 15, 2018
 
 **Today's Progress**: Today I completed 2 courses on Lynda.com "Workflow Tools For Web Developers" and "JavaScript Closures". For my Udacity Front End Developer Nano Degree I completed the lessons including: Set up of ESLint, Unit Testing in Gulp, and Continuous Integration (covered Jenkins). I also started the Development and Production mode lessons which cover Sass, Css and JavaScript Concatenation, minification and as well as setting up the production tasks.  
+
+### Day 20 July 16, 2018
+
+**Today's Progress**: Working on Udacity's Front End Nano Degree course work. Covered today: Babel transpiler, JavaScript Source Maps, Image Optimization & Compression, and scaffolding with Google's Web Starter Kit, HTML5 Boilerplate, Yeoman and began the "Writing Tests" with Jasmine Course. Also completed "User Experience for Web Designers" on Lynda.com.
