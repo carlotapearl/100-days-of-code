@@ -76,7 +76,7 @@
 
 **Today's Progress**: Finished project 3 and completed the next tree lessons for the Front End Nano Degree course work in web tooling and optimization.
 
-1. [Udacity FEND Arcade Game Clone](https://github.com/carlotapearl/Udacity-FEND-arcade-game-master)
+1. [Udacity FEND Project 3 Arcade Game Clone](https://github.com/carlotapearl/Udacity-FEND-arcade-game-master)
 
 ### Day 16: July 12, 2018 
 
@@ -116,11 +116,11 @@
 **Today's Progress**: Finished the Jasmin test-driven development project. Submited the project for Udacity review. 
 
 **Links to work for Day 1:** 
-1. [Udacity's Accessibilty Lessons](https://github.com/carlotapearl/Udacity-FEND-feedreader-master)
+1. [Udacity FEND Project 4](https://github.com/carlotapearl/Udacity-FEND-feedreader-master)
 
 ### Day 24 July 20, 2018
 
 **Today's Progress**: Early in the morning I received an email from Udacity that my project had been reviewed. It met all the expectations and I received 12 "Awesome" review comments. I started Lesson 1 of the next section of Udacity's Nano Degree program. This next section starts with Udacity's JavaScript Patterns Course. I completed the first 10 parts, which included version 1 and 2 of a "Cat Clicker App". I have included the code here.
 
 **Links to work for Day 1:** 
-1. [Udacity's Accessibilty Lessons](https://github.com/carlotapearl/Udacity-FEND-cat-clicker)
+1. [Udacity FEND Cat Clicker](https://github.com/carlotapearl/Udacity-FEND-cat-clicker)
