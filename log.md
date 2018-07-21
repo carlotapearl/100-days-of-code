@@ -76,6 +76,8 @@
 
 **Today's Progress**: Finished project 3 and completed the next tree lessons for the Front End Nano Degree course work in web tooling and optimization.
 
+1. [Udacity FEND Arcade Game Clone](https://github.com/carlotapearl/Udacity-FEND-arcade-game-master)
+
 ### Day 16: July 12, 2018 
 
 **Today's Progress**: Today I continued with Udacity's Front End Nano Degree course work. My project was reviewed and met expectations on the first submission. Today I was able to complete 3 Lessons: Web Tooling and Automation, Productive Editing, and Powerful Builds. These included setting up the IDE with packages to increase productivity (keyboard shortcuts and code editor extensions to speed up development process. In the afternoon I spent several hours in the "Powerful Builds" lesson which included setting up Gulp and Sass.
@@ -90,6 +92,9 @@
 
 **Today's Progress**: Today I began the coursework on JavaScript Testing. 
 
+**Links to work for Day 1:** 
+1. [Testing Web Workflow Tools Configuration](https://github.com/carlotapearl/sample-project)
+
 ### Day 19 July 15, 2018
 
 **Today's Progress**: Today I completed 2 courses on Lynda.com "Workflow Tools For Web Developers" and "JavaScript Closures". For my Udacity Front End Developer Nano Degree I completed the lessons including: Set up of ESLint, Unit Testing in Gulp, and Continuous Integration (covered Jenkins). I also started the Development and Production mode lessons which cover Sass, Css and JavaScript Concatenation, minification and as well as setting up the production tasks.  
@@ -101,3 +106,21 @@
 ### Day 21 July 17, 2018 
 
 **Today's Progress**: Continued the Writing Tests with Jasmine Course on Udacity.
+
+### Day 22 July 18, 2018
+
+**Today's Progress**: Finished the Writing Tests with Jasmine Course on Udacity. Also working on Udacity FEND project 4 writing unit tests for a Feed Reader App.
+
+### Day 23 July 19, 2018
+
+**Today's Progress**: Finished the Jasmin test-driven development project. Submited the project for Udacity review. 
+
+**Links to work for Day 1:** 
+1. [Udacity's Accessibilty Lessons](https://github.com/carlotapearl/Udacity-FEND-feedreader-master)
+
+### Day 24 July 20, 2018
+
+**Today's Progress**: Early in the morning I received an email from Udacity that my project had been reviewed. It met all the expectations and I received 12 "Awesome" review comments. I started Lesson 1 of the next section of Udacity's Nano Degree program. This next section starts with Udacity's JavaScript Patterns Course. I completed the first 10 parts, which included version 1 and 2 of a "Cat Clicker App". I have included the code here.
+
+**Links to work for Day 1:** 
+1. [Udacity's Accessibilty Lessons](https://github.com/carlotapearl/Udacity-FEND-cat-clicker)
