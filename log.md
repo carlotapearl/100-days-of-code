@@ -124,3 +124,12 @@
 
 **Links to work for Day 1:** 
 1. [Udacity FEND Cat Clicker](https://github.com/carlotapearl/Udacity-FEND-cat-clicker)
+
+### Day 25 - 30  July 21 - 26, 2018
+
+**Progress**: Worked on Udacity's JavaScript Patterns Course for the Front End Nano Degree. Also complete's Lynda.com's new course, "Learning Functional Programming with JavaScript".
+
+### Dat 31 - 32 July 27 - 28, 2018 Worked on Udacity's JavaScript Promises Course. I noticed that the course was created in 2015, I compared my notes to my lessons at The Iron Yard Bootcamp from 2017 and found a fantastic workshop on Lynda.com called, "Rethinking Asynchronous JavaScript", taught by Kyle Simpson.
+
+** Thoughts: **
+Kyle says, "You’ve got to get through the promises and generators. That is the new baseline for competency in asynchronous programming, is understanding what promises are, what generators are, and why the two need to be mixed together to solve the issues of callback hell. That's the new standard for competency." There are a lot of code exersices in this workshop. I am glad to have found it.
