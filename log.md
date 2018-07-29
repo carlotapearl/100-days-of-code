@@ -129,7 +129,21 @@
 
 **Progress**: Worked on Udacity's JavaScript Patterns Course for the Front End Nano Degree. Also complete's Lynda.com's new course, "Learning Functional Programming with JavaScript".
 
-### Dat 31 - 32 July 27 - 28, 2018 Worked on Udacity's JavaScript Promises Course. I noticed that the course was created in 2015, I compared my notes to my lessons at The Iron Yard Bootcamp from 2017 and found a fantastic workshop on Lynda.com called, "Rethinking Asynchronous JavaScript", taught by Kyle Simpson.
+### Day 31 - 32 July 27 - 28, 2018 
+
+**Today's Progress**: Worked on Udacity's JavaScript Promises Course. I noticed that the course was created in 2015, I compared my notes to my lessons at The Iron Yard Bootcamp from 2017 and found a fantastic workshop on Lynda.com called, "Rethinking Asynchronous JavaScript", taught by Kyle Simpson.
 
 ** Thoughts: **
 Kyle says, "You’ve got to get through the promises and generators. That is the new baseline for competency in asynchronous programming, is understanding what promises are, what generators are, and why the two need to be mixed together to solve the issues of callback hell. That's the new standard for competency." There are a lot of code exersices in this workshop. I am glad to have found it.
+
+### Day 33 July 29, 2018 
+
+**Today's Progress**: Returned to Udacity's JavaScript Patterns course to finish up the revisions to the Cat Clicker app. Refactored the MVC and Premium Pro versions.  
+
+** Thoughts: **
+The important lesson leaned today is that when you plan ahead and organize things well it is much easier to add things later.
+I was able to go back and quickly add new features.
+
+**Links to work for Day 33:** 
+1. [Udacity FEND Cat Clicker](https://github.com/carlotapearl/Udacity-FEND-cat-clicker)
+
