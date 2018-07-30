@@ -151,4 +151,10 @@ I was able to go back and quickly add new features.
 
 **Today's Progress**
 
+Morning: Lynda.com's course "UX Foundations: Accessibility". Thorough course covering various topics on accessibility. Included: Examples, tools and techniques, different types of disabilities defined, and integrating accessibility into UX Work and Process.
+
+Afternoon: 
+Continued with Udacity's JavaScript Patterns course. Refactored a simple app with the MV* pattern.
+1. [Udacity's School Attendance App Refactore assignment](https://github.com/carlotapearl/ud989-school-attendance)
+
 
