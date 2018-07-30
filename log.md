@@ -147,3 +147,8 @@ I was able to go back and quickly add new features.
 **Links to work for Day 33:** 
 1. [Udacity FEND Cat Clicker](https://github.com/carlotapearl/Udacity-FEND-cat-clicker)
 
+### Day 34 July 30, 2018
+
+**Today's Progress**
+
+
