@@ -155,6 +155,6 @@ Morning: Lynda.com's course "UX Foundations: Accessibility". Thorough course cov
 
 Afternoon: 
 Continued with Udacity's JavaScript Patterns course. Refactored a simple app with the MV* pattern.
-1. [Udacity's School Attendance App Refactore assignment](https://github.com/carlotapearl/ud989-school-attendance)
+1. [Udacity's School Attendance App Refactor assignment](https://github.com/carlotapearl/ud989-school-attendance)
 
 
