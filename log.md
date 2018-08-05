@@ -131,16 +131,18 @@
 
 ### Day 31 - 32 July 27 - 28, 2018 
 
-**Today's Progress**: Worked on Udacity's JavaScript Promises Course. I noticed that the course was created in 2015, I compared my notes to my lessons at The Iron Yard Bootcamp from 2017 and found a fantastic workshop on Lynda.com called, "Rethinking Asynchronous JavaScript", taught by Kyle Simpson.
+**Today's Progress**: 
+Worked on Udacity's JavaScript Promises Course. I noticed that the course was created in 2015, I compared my notes to my lessons at The Iron Yard Bootcamp from 2017 and found a fantastic workshop on Lynda.com called, "Rethinking Asynchronous JavaScript", taught by Kyle Simpson.
 
 ** Thoughts: **
 Kyle says, "You’ve got to get through the promises and generators. That is the new baseline for competency in asynchronous programming, is understanding what promises are, what generators are, and why the two need to be mixed together to solve the issues of callback hell. That's the new standard for competency." There are a lot of code exersices in this workshop. I am glad to have found it.
 
 ### Day 33 July 29, 2018 
 
-**Today's Progress**: Returned to Udacity's JavaScript Patterns course to finish up the revisions to the Cat Clicker app. Refactored the MVC and Premium Pro versions.  Also finished Lynda.com's "Rethinking Asynchronous JavaScript" taught by Kyle Simpson.
+**Today's Progress**: 
+Returned to Udacity's JavaScript Patterns course to finish up the revisions to the Cat Clicker app. Refactored the MVC and Premium Pro versions.  Also finished Lynda.com's "Rethinking Asynchronous JavaScript" taught by Kyle Simpson.
 
-** Thoughts: **
+** Thoughts: **:
 The important lesson leaned today is that when you plan ahead and organize things well it is much easier to add things later.
 I was able to go back and quickly add new features.
 
@@ -149,7 +151,7 @@ I was able to go back and quickly add new features.
 
 ### Day 34 July 30, 2018
 
-**Today's Progress**
+**Today's Progress**:
 
 Morning: Lynda.com's course "UX Foundations: Accessibility". Thorough course covering various topics on accessibility. Included: Examples, tools and techniques, different types of disabilities defined, and integrating accessibility into UX Work and Process.
 
@@ -159,26 +161,26 @@ Continued with Udacity's JavaScript Patterns course. Refactored a simple app wit
 
 ### Day 35 July 31, 2018
 
-**Today's Progress**
+**Today's Progress**:
 Finished Douglas Crockford's workshop "The Good Parts of JavaScript and the Web" on Lynda.com. 
 Completed Udacity's "Creating Promises" Lesson.
 
 ### Day 36 August 1, 2018
 
-**Today's Progress**
+**Today's Progress**:
 Finished Lynda.com's "ES6 The Right Parts" taught by Kyle Simpson. Completed Udacity's "Chaining Promises" lesson.
 
 ### Day 37 August 2, 2018
 
-**Today's Progress**
+**Today's Progress**:
 Completed "Building Web Applications with Ajax" on Lynda.com. 
 
 ### Day 38 August 3, 2018
 
-**Today's Progress**
+**Today's Progress**:
 Completed "Learning Angular" Course on Lynda.com. 
 
 ### Day 39 August 4, 2018
 
-**Today's Progress**
+**Today's Progress**:
 Finished Udacity's Front End Nano Degree coursework on Ajax with XHR, JQuery and Fetch API. 
