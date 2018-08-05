@@ -138,7 +138,7 @@ Kyle says, "You’ve got to get through the promises and generators. That is the
 
 ### Day 33 July 29, 2018 
 
-**Today's Progress**: Returned to Udacity's JavaScript Patterns course to finish up the revisions to the Cat Clicker app. Refactored the MVC and Premium Pro versions.  
+**Today's Progress**: Returned to Udacity's JavaScript Patterns course to finish up the revisions to the Cat Clicker app. Refactored the MVC and Premium Pro versions.  Also finished Lynda.com's "Rethinking Asynchronous JavaScript" taught by Kyle Simpson.
 
 ** Thoughts: **
 The important lesson leaned today is that when you plan ahead and organize things well it is much easier to add things later.
@@ -157,4 +157,28 @@ Afternoon:
 Continued with Udacity's JavaScript Patterns course. Refactored a simple app with the MV* pattern.
 1. [Udacity's School Attendance App Refactor assignment](https://github.com/carlotapearl/ud989-school-attendance)
 
+### Day 35 July 31, 2018
 
+**Today's Progress**
+Finished Douglas Crockford's workshop "The Good Parts of JavaScript and the Web" on Lynda.com. 
+Completed Udacity's "Creating Promises" Lesson.
+
+### Day 36 August 1, 2018
+
+**Today's Progress**
+Finished Lynda.com's "ES6 The Right Parts" taught by Kyle Simpson. Completed Udacity's "Chaining Promises" lesson.
+
+### Day 37 August 2, 2018
+
+**Today's Progress**
+Completed "Building Web Applications with Ajax" on Lynda.com. 
+
+### Day 38 August 3, 2018
+
+**Today's Progress**
+Completed "Learning Angular" Course on Lynda.com. 
+
+### Day 39 August 4, 2018
+
+**Today's Progress**
+Finished Udacity's Front End Nano Degree coursework on Ajax with XHR, JQuery and Fetch API. 
